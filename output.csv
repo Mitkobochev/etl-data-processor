@@ -1,0 +1,229 @@
+﻿Active Ingredient,Trade Name,ATC Code,Decision Date,Indication
+Axitinib + Pembrolizumab,Inlyta + Keytruda,L01XC18 + L01XE17,2025-12-01,Metastaserende nyrecellekarcinom
+Pembrolizumab,Keytruda,L01XC18,2018-08-15,Urotelialt karcinom
+Tislelizumab,Tevimbra,L01FF09,2025-11-19,"Tevimbra i kombination med carboplatin og enten paclitaxel eller nab-paclitaxel er indiceret til førstelinjebehandling af voksne patienter med planocellulær NSCLC, som har lokalt fremskreden NSCLC og ikke er kandidater til kirurgisk resektion eller platinbaseret kemoradioterapi, eller som har metastatisk NSCLC"
+Esketamin,Spravato,N06AX27,2025-11-19,Moderat til svær depression (MDD) hos voksne med manglende respons
+Tislelizumab,Tevimbra,L01FF09,2025-06-18,"1. linjebehandling af inoperabel, lokalt fremskreden eller metastatisk kræft i spiserøret, som udtrykker PD-L1 med TAP-score ≥ 5 %"
+Tislelizumab,Tevimbra,L01FF09,2025-10-29,"1. linjebehandling af lokalavanceret, ikke-resektabel eller metastatisk HER2-negativ adenokarcinom i mavesæk eller mavemund, som udtrykker PD-L1 med TAP-score ≥ 5 %"
+Bortezomib + Dexamethason + Selinexor,Nexpovio,L01XX66,2025-10-29,"Patienter med myelomatose, som har fået mindst én tidligere behandling"
+Abemaciclib,Verzenios,L01EF03,2025-09-03,"Patienter med tidlig, høj-risiko, lymfeknudepositiv ER+/HER2 brystkræft"
+Ribociclib,Kisqali,L01EF02,2025-09-30,"I komb. m. en aromatasehæmmer til adjuverende behandling af patienter med hormonreceptor (HR)-positiv, human epidermal vækstfaktorreceptor 2 (HER2)-negativ tidlig brystkræft med høj risiko for recidiv"
+Ciltacabtagene autoleucel,Carvykti,L01XL05,2025-09-24,"Voksne med recidiverende og refraktær myelomatose i 2. linje eller derefter, som er refraktære overfor lenalidomid"
+Ipilimumab + Nivolumab,Opdivo,L01FF01 + L01FX04,2025-09-24,Behandling af patienter med defekt mismatch repair system eller høj mikrosatellitinstabilitet (dMMR7MSI-H) metastatisk tyk- og endetarmskræft (mCRC) i 1.linje
+Nemolizumab,Nemluvio,D11AH12,2025-09-03,"Voksne med moderat til svær prurigo nodularis, som er kandidater for systemisk behandling"
+Capecitabin + Trastuzumab + Tucatinib,Tukysa,L01EH03,2025-09-03,"Metastatisk HER2-positiv brystkræft - patienter, der har modtaget minimum to tidligere behandlinger"
+Atezolizumab,Tecentriq,L01XC32,2023-03-29,Adjuverende behandling af patienter med ikke-småcellet lungekræft
+Atezolizumab + Carboplatin + Etoposid,Tecentriq,"L01FF05, L01XA02 og L01CB01",2024-09-25,Småcellet lungekræft
+Atezolizumab + Nab-paclitaxel,Tecentriq,L01XC32 og L01CD01,2024-01-12,Lokalt fremskreden eller metastatisk triple-negativ brystkræft
+Atezolizumab,Tecentriq,L01XC,2018-11-14,Ikke-småcellet lungekræft
+Atezolizumab,Tecentriq,L01XC,2018-08-15,Urotelialt karcinom
+Atezolizumab + Bevacizumab,Avastin + Tecentriq,L01XC32 og L01XC07,2021-06-23,Hepatocellulært karcinom
+Ipilimumab + Nivolumab,Opdivo,L01XC17 + L01XC11,2022-03-23,1. linjebehandling af ikke-resekterbar malignt pleuralt mesotheliom
+Nivolumab,Opdivo,L01FF01,2022-06-15,Adjuverende behandling af esophagus cancer og gastroesophageal junction cancer
+Nivolumab,Opdivo,L01FF01,2022-10-26,"1. linjebehandling af fremskreden HER2 negativ adenokarcinom i mavesæk, mavemund eller spiserør og PD-L1 CPS ≥ 5"
+Nivolumab,Opdivo,L01FF01,2023-01-25,"Adjuverende behandling af voksne med muskelinvasivt urotelialt karcinom (MIUC) med PD-L1-tumorcelleekspression ≥ 1 %, som har høj risiko for tilbagefald efter at have gennemgået radikal resektion af MIUC"
+Nivolumab,Opdivo,L01FF01,2023-01-18,1. linjebehandling af planocellulært karcinom i spiserør med PD-L1 ≥ 1 %
+Nivolumab,Opdivo,L01FF01,2023-11-22,Ikke-småcellet lungekræft
+Cisplatin + Gemcitabin + Nivolumab,Opdivo,L01FF01,2024-10-23,1. linjebehandling af voksne patienter med inoperabelt eller metastatisk urotelialt karcinom
+Ipilimumab + Nivolumab,Opdivo + Yervoy,L01XC17 + L01XC11,2019-03-13,Nyrekræft
+Nivolumab,Opdivo,L01XC17,2018-11-14,"Modermærkekræft, adjuverende behandling"
+Nivolumab,Opdivo,L01XC17,2017-12-13,Urotelialt karcinom
+Carboplatin + Etoposid + Serplulimab,Hetronifly,L01FF12,2025-08-14,1. linjebehandling af voksne patienter med omfattende småcellet lungekræft (ES-SCLC)
+Pegunigalsidase alfa  (Elfabrio),,A16AB20,2025-08-01,Fabrys sygdom
+Sacituzumab govitecan,Trodelvy,L01FX17,2025-05-21,Metastatisk triple-negativ brystkræft
+Mepolizumab,Nucala,R03DX09,,Kronisk rhinosinuitis med næsepolypper (CRSwNP)
+Voretigene neparvovec,Luxturna,S01XA27,2025-06-18,Synstab som følge af arvelig RPE65-relateret nethinde dystrofi
+Lorlatinib,Lorviqua,L01ED05,2025-06-18,"Behandling af voksne patienter med anaplastisk lymfomkinase-positiv (ALK-positiv), fremskreden ikke-småcellet lungecancer (NSCLC), der ikke tidligere er behandlet med en ALK-hæmmer"
+Larotrectinib,Vitrakvi,L01XE53,2025-06-18,NTRK-fusion-positive solide tumorer
+Durvalumab,Imfinzi,L01XC28,2025-05-30,Ikke-småcellet lungekræft stadie III
+Acoramidis,Beyonttra,C01EB25,2025-05-21,Behandling af vildtype eller arvelig transthyretin amyloidose i voksne patienter med kardiomyopati
+Ritlecitinib,Litfulo,L04AF08,2025-05-21,Svær alopecia areata hos voksne og unge på 12 år og derover
+Nivolumab + Relatlimab,Opdualag,L01XY03,2025-05-21,Ikke-rekterbar eller metastatisk melanom
+Bimekizumab,Bimzelx,L04AC21,2025-05-21,Aktiv moderat til svær hidrosadenitis suppurativa (HS) hos voksne med utilstrækkeligt respons af konventionel systemisk behandling af HS
+Trastuzumab deruxtecan,Enhertu,L01FD04 (2022),2025-05-21,T-DXd til metastatisk HER2-lav brystkræft
+Daratumumab + Dexamethason + Lenalidomid,Darzalex,L01FC01,2025-05-21,"Patienter med nydiagnosticeret myelomatose, som ikke er kandidater til autolog stamcelletransplantation"
+Carboplatin + Durvalumab + Paclitaxel,Imfinzi,L01FF03,2025-05-02,"1. linjebehandling af primær avanceret eller recidiverende endometriecancer hos voksne, som er egnet til systemisk behandling"
+Carboplatin + Dostarlimab + Paclitaxel,Jemperli,L01FF07,2025-05-02,"1. linjebehandling af primær avanceret eller recidiverende endometriecancer hos voksne, som er egnet til systemisk behandling"
+Carboplatin + Paclitaxel + Pembrolizumab,Keytruda,L01FF02,2025-05-02,"1. linjebehandling af primær avanceret eller recidiverende endometriecancer hos voksne, som er egnet til systemisk behandling"
+Erdafitinib,Balversa,L01EN01,2025-04-23,Fremskreden urotelialkræft efter forudgående behandling med min. én PD-1/L1-hæmmer og platinbaseret kemoterapi
+Lenvatinib + Pembrolizumab,Keytruda + Lenvima,L01EX08 + L01FF02,2025-04-23,"Fremskreden eller recidiverende endometriekarcinom, som har sygdomsprogression med eller efter tidligere behandling med en hvilken som helst anden behandling, som indeholder platin, og som ikke er kandidater til kurativ operation eller strålebehandling"
+Enfortumab vedotin + Pembrolizumab,Keytruda + Padcev,L01FX13 + L01FF02,2024-12-18,1. linjebehandling af fremskreden urotelialkræft
+Lisocabtagene maraleucel,Breyanzi,L01XL08,2025-03-26,"Diffust storcellet B-celle lymfom, 2. linje"
+Lisocabtagene maraleucel,Breyanzi,L01XL08,2025-03-26,"Diffust storcellet B-celle lymfom, 3. linje"
+Secukinumab,Cosentyx,L04AC10,2025-03-26,Aktiv moderat til svær hidrosadenitis suppurativa
+Durvalumab,,L01FF03,2025-03-04,(Imfinzi) - i kombination med gemcitabin og cisplatin
+Exagamglogene autotemcel,Casgevy,B06AX05,2025-02-26,Svær seglcellesygdom hos patienter over 12 år med tilbagevendende vasookklusive kriser
+Exagamglogene autotemcel,Casgevy,B06AX05,2025-02-26,Transfusionsafhængig β-talassæmi hos patienter over 12 år
+Vadadustat,Vafseo,B03XA08,2025-02-26,"Behandling af symptomatisk anæmi i forbindelse med kronisk nyresygdom hos voksne, der er i kronisk vedligeholdelsesdialyse"
+Pembrolizumab,Keytruda,L01FF02,2025-02-13,1. linjebehandling af voksne med ikke-resektabel eller metastatisk kræft i galdevejene
+Ropeginterferon-alfa-2b,Besremi,L03AB15,2025-01-30,Polycytæmia vera
+Crovalimab,PiaSky,L04AJ07,2025-01-29,Behandling af voksne og pædiatriske patienter i alderen 12 år eller ældre med en vægt på 40 kg og derover med paroksystisk natlig hæmoglobinuri (PNH)
+Lenalidomid,Revlimid,L04AX04,2025-01-29,Knoglemarvskræft
+Nirsevimab,Beyfortus,J06BD08,2025-10-09,RS-virus hos spædbørn
+Relugolix,Orgovyx,L02BX04,,Prostatakræft
+Pembrolizumab,Keytruda,L01FF02,2025-01-16,Patienter med FIGO 2014 stadie III-IVA lokalavanceret livmoderhalskræft uden forudgående definitiv behandling
+Bevacizumab + Trifluridin + Tipiracil,Lonsurf,L01BC59,2024-12-18,"Behandling af metastatisk tyk- og endetarmskræft hos voksne patienter, som har modtaget to tidligere behandlinger for metastatisk sygdom"
+Ciltacabtagene autoleucel,Carvykti,L01X05,2024-11-27,Knoglemarvskræft
+Durvalumab + Tremelimumab,Imfinzi + Imjudo,L01FF03 + L01FX20,2024-12-05,1. linjebehandling af voksne med fremskreden eller ikke-resektabel hepatocellulært karcinom (HCC)
+Axicabtagene ciloleucel,Yescarta,L01XX70,2024-11-27,"Diffust storcellet B-celle lymfom, 2. linje"
+Axicabtagene ciloleucel,Yescarta,,2024-11-27,"Diffust storcellet B-celle lymfom, 3. linje"
+Efanesoctocog alfa,,B02BD02,2024-10-23,Hæmofili A
+Tafamidis,Vyndaqel,N07XX08,2024-10-23,revurdering
+Bevacizumab + Irinotecan + Oteracil + Oxaliplatin + Tegafur + Gimeracil,Teysuno,L01BC53,2024-10-23,Til patienter med metastatisk colorektal cancer (mCRC) for hvem behandling med et andet fluoropyrimidin ikke kan fortsætte på grund af hånd-fod-syndrom eller kardiovaskulær toksicitet
+Ibrutinib,Imbruvica,L01EL01,,"Kronisk lymfatisk leukæmi (CLL), 1. linje"
+Ibrutinib,Imbruvica,L01EL01,,"Kronisk lymfatisk leukæmi (CLL), 1. linje"
+Obinutuzumab + Venetoclax,Venclyxto,L01XX52,,"Kronisk lymfatisk leukæmi (CLL), 1. linje"
+Zanubrutinib,Brukinsa,L01EL03,,"Kronisk lymfatisk leukæmi (CLL), 1. linje"
+Carboplatin + Gemcitabin + Nab-paclitaxel + Paclitaxel + Pembrolizumab,Keytruda,L01FF02,2023-11-22,Lokalt fremskreden eller metastatisk triple-negativ brystkræft
+Pembrolizumab,Keytruda,L01FF02,2023-04-27,(Neo)adjuverende behandling af tidlig triple-negativ brystkræft
+Pembrolizumab,Keytruda,L01FF02,2023-08-23,Livmoderhalskræft
+Pembrolizumab,Keytruda,L01FF02,2024-06-19,"1. linjebehandling af lokalavanceret, ikke-resektabel eller metastatisk HER2-negativ adenokarcinom i mavesæk eller mavemund og PD-L1 CPS ≥ 1"
+Pembrolizumab + Trastuzumab,Keytruda,L01FF02,2024-03-20,"1. linjebehandling af lokalavanceret, ikke-resektabel eller metastatisk HER2-positiv adenokarcinom i mavesæk eller mavemund"
+Pembrolizumab,Keytruda,L01FF02,2024-06-19,Nyrekræft
+Carboplatin + Cisplatin + Durvalumab + Etoposide,Imfinzi,"L01FF03, L01XA02/1 og L01CB01",2024-09-25,Småcellet lungekræft
+Abirateron + Olaparib + Prednisolon,Lynparza,L01XX46,2024-09-25,ProstatakræftMetastatisk kastrationsresistent prostatacancer
+Teduglutid,Revestive,A16AX08,2024-09-25,Behandling af voksne og børn (> 1 år) med korttarmssyndrom. Patienterne skal være stabile efter en periode med intestinal adaptation efter operation
+Momelotinib,Omjjara,L01EJ04,2024-04-24,Behandling af splenomegali eller konstitutionelle symptomer relateret til myelofibrose ved samtidig anæmi
+Abirateron acetat,Zytiga,L02BX03,2024-08-28,Nydiagnosticeret højrisiko metastaserende kastrationssensitiv prostatakræft
+Pegcetacoplan,Aspaveli,L04AJ03,2024-08-28,"Voksne patienter med paroxysmal nocturnal hæmoglobinuri (PNH), som har hæmolytisk anæmi"
+Risdiplam,Evrysdi,M09AX10,2024-08-28,Patienter med 5q spinal muskelatrofi
+Enfortumab vedotin,Padcev,L01FX13,2024-08-28,Blærekræft
+Carboplatin + Dostarlimab + Paclitaxel,Jemperli,L01FF07,2024-08-28,"1. linjebehandling af primær avanceret eller recidiverende endometriecancer hos voksne, som er egnet til systemisk behandling"
+Etranacogene dezaparvovec,Hemgenix,B02BD16,2024-06-19,Voksne med hæmofili B
+Difelikefalin,Kapruvia,V03AX04,2024-06-19,Behandling af moderat til svær pruritus i forbindelse med kronisk nyresygdom hos voksne patienter i hæmodialyse
+Avapritinib,Ayvakyt,L01EX18,2024-05-22,Behandling af inoperabel eller metastatisk gastrointestinal stromal tumor med PDGFRA-D842V-mutation
+Avapritinib,Ayvakyt,L01EX18,2024-05-22,"Behandling af voksne patienter med aggressiv systemisk mastocytose (ASM), systemisk mastocytose med associeret hæmatologisk neoplasma (SM-AHN) eller mastcelleleukæmi (MCL) efter mindst én systemisk behandling"
+Osimertinib,Tagrisso,L01EB04,2024-05-22,"EGFR-muteret ikke-småcellet lungekræft, adjuverende behandling"
+Bevacizumab + Olaparib,Lynparza,L01XX46,2024-04-24,"Nydiagnosticeret avanceret HRD-positiv kræft i æggestokkene, æggelederne eller primær kræft i bughinden"
+Pembrolizumab,Keytruda,L01XC18,2024-03-26,"Modermærkekræft, adjuverende behandling"
+Teclistamab,Tecvayli,L01FX24,2024-02-21,"Teclistamab til behandling af patienter med knoglemarvskræft, som har fået mindst tre tidligere behandlingslinjer"
+Dupilumab,Dupixent,D11AH05,2023-11-22,"Moderat til svær prurigo nodularis (PN) hos voksne, som er kandidater til systemisk behandling"
+Pegcetacoplan,Aspaveli,L04AA54,2023-11-22,"Voksne patienter med paroksystisk natlig hæmoglobinuri (PNH), som er anæmiske efter behandling med en C5-hæmmer i mindst 3 måneder"
+Nusinersen,Spinraza,M09AX07,2020-10-29,Patienter med 5q spinal muskelatrofi
+Onasemnogene abeparvovec,Zolgensma,M09AX09,2023-08-23,Patienter med 5q spinal muskelatrofi
+Dupilumab,Dupixent,D11AH05,2023-06-30,Svær atopisk eksem hos børn 6 mdr. til < 6 år
+Roxadustat,Evrenzo,B03XA05,2023-06-21,Symptomatisk anæmi hos voksne med kronisk nyresygdom
+Siponimod,Mayzent,L04AA42,2023-06-21,Sekundær progressiv multipel sklerose (SPMS)
+Asciminib,Scemblix,L01EA06,2023-06-21,"Voksne patienter med Philadelphia kromosompositiv kronisk myeloid leukæmi i kronisk fase (Ph+ CML CP), som tidligere er blevet behandlet med to eller flere tyrosinkinasehæmmere"
+Maribavir,Livtencity,J05AX10,2023-06-21,"Behandling af CMV-infektion eller -sygdom hos transplantationsmodtagere, som har refraktær/resistent CMV-infektion"
+Limbale stamceller,Holoclar,S01XA19,2018-10-10,Alvorlig limbal stamcellemangel
+Tezepelumab,Tezspire,R03DX11,2023-04-26,Svær astma
+Pralsetinib,Gavreto,L01EX23,2023-03-29,Patienter med ikke-småcellet lungekræft med RET-fusion
+Abrocitinib,,D11AH08,2023-01-25,(Cibinqo)
+Ozanimod,Zeposia,L04AA38,2022-09-28,Colitis ulcerosa
+Inclisiran,Leqvio,C10AX16,2023-02-22,Voksne med primær hyperkolesterolæmi eller blandet dyslipidæmi
+Burosumab,Crysvita,M05BX05,2022-11-23,X-bundet hypofosfatæmi
+Upadacitinib,Rinvoq,L04AA44,2023-01-25,"Voksne og unge (≥ 12 år) med moderat til svær atopisk dermatitis, som er kandidater til systemisk terapi"
+Trastuzumab deruxtecan,Enhertu,L01FD04,2023-01-25,"Voksne patienter med ikke-resekterbar eller metastatisk HER2-positiv brystkræft, som har modtaget en eller flere tidligere anti-HER2-baserede regimer"
+Esketamin,Spravato,N06AX27,2023-01-20,Moderat til svær depression (MDD) hos voksne med akut øget selvmordsrisiko
+Upadacitinib,Rinvoq,L04AA44,2023-01-13,Aksial spondylartrit – ankyloserende spondylitis
+Baricitinib,Olumiant,L04AA37,2022-12-20,Moderat til svær atopisk eksem
+Fostamatinib,Tavlesse,B02BX09,2022-12-20,Kronisk immuntrombocytopeni
+Anifrolumab,Saphnelo,L04AA51,2023-01-19,Systemisk lupus erythematosus
+Osilodrostat,Isturisa,H02CA02,2022-12-14,Behandling af endogen Cushings syndrom hos voksne
+Eptinezumab,Vyepti,N02CD05,2022-11-23,Forebyggende behandling af kronisk migræne
+Dostarlimab,Jemperli,L01XC40,2022-11-16,Recidiverende avanceret livmoderkræft med dMMR/MSI-high efter progression på platinbaseret kemoterapi
+Chlormethin,Ledaga,L01AA05,2022-10-27,Topikal behandling af kutant T-celle-lymfom af typen mycosis fungoides
+Dupilumab,Dupixent,D11AH05,2022-10-27,Svær astma hos børn (6-11 år)
+Venetoclax,Venclyxto,L01XX52,2022-09-27,"Patienter med akut myeloid leukæmi, som ikke er kandidater til behandling med intensiv kemoterapi"
+Dupilumab,Dupixent,D11AH05,2022-06-15,Kronisk rhinosinuitis med næsepolypper (CRSwNP)
+Upadacitinib,Rinvoq,L04AA44,2020-09-23,Kronisk leddegigt
+Tofacitinib,Xeljanz,LO4AA29,2018-02-07,Reumatoid artrit
+Acalabrutinib,Calquence,L01EL02,2022-06-15,Kronisk lymfatisk leukæmi
+Cabotegravir + Rilpivirin,,J05AJ04 og J05AG05,2022-06-16,Hiv-1-infektion
+Binimetinib + Encorafenib,Braftovi + Mektovi,L01XE46 og L01XE41,2021-11-10,Ikke-resektabel eller metastatisk modermærkekræft med BRAF V600 mutation
+Gilteritinib,Xospata,L01XE54,2022-05-18,Akut myeloid leukæmi (AML) med FLT3m R/R
+Fedratinib,Inrebic,L01XE57,2022-04-20,Myelofibrose
+Secukinumab,Cosentyx,L04AC10,2022-04-20,Ikke-radiografisk aksial spondylartrit (nr-axSpA)
+Zanubrutinib,Brukinsa,L01EL03 (1),2022-04-20,"Voksne patienter med Waldenstrøms makroglobulinæmi, som har modtaget mindst én tidligere behandling, eller til førstelinjebehandling af patienter, som er uegnede til kemo-immunterapi"
+Cemiplimab,Libtayo,L01XC33,2022-03-23,Basalcellekarcinom (BCC)
+Fenfluramin,Fintepla,N03AX26,2022-03-23,Dravet syndrom
+Berotralstat,Orladeyo,B06AC06,2022-03-23,Forebyggende behandling af arveligt angioødem
+Selpercatinib,Retsevmo,L01EX22,2022-03-23,Recidiverende RET-fusion/RET-muteret kræft efter progression på foregående systemisk behandling
+Upadacitinib,Rinvoq,L04AA44,2022-02-23,Psoriasisartrit
+Nintedanib,Ofev,L01EX09,2022-02-23,Interstitiel lungesygdom med progredierende fibrose
+Pemigatinib,Pemazyre,L01EN02,2022-02-23,Cholangiokarcinom
+Avatrombopag,Doptelet,B02BX08,2022-01-28,Kronisk immuntrombocytopeni
+Pembrolizumab,Keytruda,L01XC18,2022-01-26,1. linjebehandling af lokalt avanceret eller metastatisk spiserørskræft eller HER2-negativ kræft i overgangen mellem spiserør og mavesæk
+Ofatumumab,Kesimpta,L04AA52,2022-01-26,Attakvis multipel sklerose
+Avelumab,Bavencio,L01XC31,2021-12-15,Metastatisk merkelcellekarcinom (mMCC)
+Olaparib,Lynparza,L01XX46,2021-12-16,Metastatisk kastrationsresistent prostatacancer med BRCA1/2-mutationer
+Ocrelizumab,Ocrevus,L04AA36,2021-12-15,Subgrupper af patienter med primær progressiv multipel sklerose
+C1-inhibitor (human),Berinert,B06AC01,2021-08-24,revurdering
+Patisiran,Onpattro,N07XX12,2020-11-18,Arvelig transthyretin-medieret amyloidose (hATTR)
+Tafamidis,Vyndaqel,N07XX08,2021-03-19,Arvelig transthyretin amyloidose med polyneuropati stadie 1
+Pembrolizumab,Keytruda,L01XC18,2021-09-29,1. linjebehandling af patienter med MSI-h/dMMR metastatisk kolorektalkræft
+Avelumab,Bavencio,L01XC31,2021-06-23,Urotelialt karcinom
+Bortezomib + Daratumumab + Melphalan + Prednison,,L01XC24,2021-06-23,revurdering
+Dupilumab,Dupixent,D11AH05,2021-06-23,Atopisk eksem (6-11 år)
+Niraparib,Zejula,L01XK02,2021-06-23,Kræft i æggestokkene
+Ixekizumab,Taltz,L04AC13,2021-05-26,Aksial spondylartrit
+Dupilumab,Dupixent,D11AH05,2021-06-11,Moderat til svær atopisk eksem
+Apalutamid,Erleada,L02BB05,2021-01-27,Ikke-metastaserende kastrationsresistent prostatakræft (nmCRPC)
+Enzalutamid,Xtandi,L02BB04,2021-05-26,Ikke-metastaserende kastrationsresistent prostatakræft (nmCRPC)
+Darolutamid,Nubeqa,L02BB06,2021-03-24,Ikke-metastaserende kastrationsresistent prostatakræft (nmCRPC)
+Brigatinib,Alunbrig,L01XE43,2021-04-28,"ALK-positiv ikke-småcellet lungekræft, 1. linjebehandling"
+Entrectinib,Rozlytrek,LO1XE56,2021-03-24,ROS1 positiv ikke-småcellet lungekræft
+Lorlatinib,Lorviqua,L01XE44,2021-03-24,"ALK-positiv ikke-småcellet lungekræft, 2. eller 3. linjebehandling"
+Brentuximab vedotin,Adcetris,L01XC12,2021-02-24,Tidligere ubehandlet systemisk anaplastisk storcellet T-cellelymfom
+Ozanimod,Zeposia,L04AA38,2021-02-24,Attakvis multipel sklerose
+Encorafenib,Braftovi,L01XE46,2021-01-27,Metastatisk tyk- og endetarmskræft med en BRAF V600E-mutation
+Pembrolizumab,Keytruda,L01XC18,2021-01-27,Planocellulær ikke-småcellet lungekræft
+Romosozumab,Evenity,M05BX06,2020-09-23,Svær osteoporose hos postmenopausale kvinder med høj risiko for fraktur
+Budesonid,Jorveza,A07EA06,2020-10-21,Eosinofil øsofagitis hos voksne (over 18 år)
+Pembrolizumab,Keytruda,L01XC18,2020-10-21,Ikke-planocellulær ikke-småcellet lungekræft med PD-L1-ekspression < 1 %
+Galcanezumab,Emgality,N02CD02,2020-09-23,Migræne
+Trastuzumab emtansin,Kadcyla,L01XC14,2020-09-09,HER2-positiv brystkræft
+Rituximab + Venetoclax,Venclyxto,L01XX52,2019-12-11,Kronisk lymfatisk leukæmi
+Pembrolizumab,Keytruda,L01XC18,2020-06-25,"Hoved- og halskræft, førstelinjebehandling"
+Cemiplimab,Libtayo,L01XC33,2020-04-23,Lokalt avanceret og metastatisk kutant planocellulært karcinom
+Alfa-1-antitrypsin,Respreeza + Prolastina,B02AB02,2020-04-24,Alvorlig alfa-1-antitrypsinmangel
+Dupilumab,Dupixent,D11AH05,2020-04-24,Atopisk eksem (12-17 år)
+Ustekinumab,Stelara,L04AC05,2020-04-02,Colitis ulcerosa
+Tofacitinib,Xeljanz,L04AA29,2020-04-01,revurdering
+Dupilumab,Dupixent,D11AH05,2020-02-19,Svær astma
+Lanadelumab,Takhzyro,B06AC05,2020-01-22,Forebyggende behandling af arveligt angioødem
+Fremanezumab,Ajovy,N02CX07,2019-11-27,Migræne
+Dolutegravir + Lamivudin,Dovato,J05AR,2019-11-20,Hiv-1-infektion
+Bortezomib + Dexamethason + Pomalidomid,Imnovid,L04 AX06,2019-11-20,Knoglemarvskræft
+Damoctocog alfa pegol,Jivi,B02BD02,2019-10-23,Hæmofili A
+Olaparib,Lynparza,L01XX46,2019-10-23,"Nydiagnosticeret BRCA-muteret kræft i æggestokkene, æggelederne eller primær kræft i bughinden"
+Risankizumab,Skyrizi,L04AC,2019-10-23,Moderat til svær plaque-psoriasis
+Brigatinib,Alunbrig,L01XE43,2019-09-25,
+Bortezomib + Dexamethason + Lenalidomid,Revlimid,L04AX04,2019-09-25,Knoglemarvskræft
+Ribociclib,Kisqali,L01XE42,2019-09-25,HR+/HER2- lokalt fremskreden eller metastatisk brystkræft
+Tofacitinib,Xeljanz,L04AA29,2019-09-25,Psoriasisartrit
+Erenumab,Aimovig,N02CX07,,Migræne
+Daunorubicin + Cytarabine,Vyxeos,L01XY01,2019-04-10,Akut myeloid leukæmi
+Lenvatinib,Lenvima,L01XE29,2019-04-10,Leverkræft
+Osimertinib,Tagrisso,L01XE35,2019-04-10,Ikke-småcellet lungekræft med aktiverende EGFR-mutation
+Pembrolizumab,Keytruda,L01XC18 + L01BA04 + L01XA01/L01XA02,2019-04-10,Ikke-planocellulær ikke-småcellet lungekræft
+Tildrakizumab,Ilumetri,L04AC17,2019-04-10,Moderat til svær plaque-psoriasis
+Vonicog alfa,Veyvondi,B02BD10,2019-04-10,von Willebrand sygdom
+Tivozanib,Fotivda,L01XE34,,Nyrekræft
+Abemaciclib,Verzenio,L01XE50,2019-02-20,Lokalt fremskreden eller metastatisk brystkræft
+Doravirin + Lamivudin + Tenofovir,Delstrigo + Pifeltro,J05AG og J05AR,2019-02-20,Hiv-1-infektion
+Bictegravir + Emtricitabine + Tenofovir alafenamid,Biktarvy,J05AR20,,Hiv-1-infektion
+Gemtuzumab ozogamicin,Mylotarg,L01XC05,2019-01-30,Akut myeloid leukæmi
+Pembrolizumab,Keytruda,L01XC18,2019-01-30,Hoved- og halskræft
+Tisagenlecleucel,Kymriah,,2019-01-30,Akut lymfatisk leukæmi
+Ixekizumab,Taltz,L04AC13,2018-12-12,Psoriasisartrit
+Certolizumab pegol,Cimzia,L04AB05,2018-12-12,Moderat til svær plaque-psoriasis
+Rurioctocog alfa pegol,Adynovi,B02BD02,2018-09-18,Hæmofili A
+Letermovir,Prevymis,J05AX18,2018-08-15,Forebyggelse af cytomegalovirus-reaktivering hos recipienter af allogen hæmatopoietisk stamcelletransplantation
+Sarilumab,Kevzara,L04AC14,2018-07-24,Reumatoid artrit
+Emicizumab,Hemlibra,B02BX06,2018-06-28,Hæmofili A med inhibitor mod Faktor VIII
+Ocrelizumab,Ocrevus,L04AA36,2018-06-28,Recidiverende multipel sklerose
+Benralizumab,Fasenra,R03DX10,2018-05-30,"Svær, eosinofil astma"
+Alectinib,Alecensa,L01XE36,2018-05-30,"ALK-positiv ikke-småcellet lungekræft, 1. linjebehandling"
+Lutetium-177-Dotatate,Lutathera,V10XX04,2018-05-30,Gastro-entero-pankreatiske neuroendokrine tumorer
+Telotristat ethyl,Xermelo,A07XA05,2018-05-30,Karcinoid syndrom ved neuroendokrine tumorer
+Tocilizumab,RoACTEMRA,L04AC07,2018-04-24,Kæmpecellearteritis
+Ribociclib,Kisqali,L01XE42,2018-04-23,HR+/HER2- lokalt fremskreden eller metastatisk brystkræft
+Brodalumab,Kyntheum,L04AC12,2018-03-15,Moderat til svær plaque-psoriasis
+Guselkumab,Tremfya,L04AC,2018-03-15,Moderat til svær plaque-psoriasis
+Midostaurin,Rydapt,L01XE39,2018-01-30,Akut myeloid leukæmi
+Regorafenib,Stivarga,L01XE21,2018-01-30,Hepatocellulært karcinom
+Glecaprevir + Pibrentasvir,Maviret,J05AX,2018-01-30,Kronisk hepatitis C
+Nonacog beta pegol,Refixia,B02BD04,2017-12-13,Hæmofili B
+Cladribin,Mavenclad,L01BB04,2017-11-09,Attakvis multipel sklerose
