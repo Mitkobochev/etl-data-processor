@@ -1,34 +1,31 @@
 ### Overview
-I built a Python pipeline to extract reimbursement decisions from the Danish Medicines Council (*Medicinrådet*). The script scrapes the website, filters for approved drugs, and cleans up the data into a CSV file ready for analysis.
+Python pipeline that extracts reimbursement decisions from the Danish Medicines Council (*Medicinrådet*). Scrapes the site, filters for approved drugs, and outputs a clean CSV ready for analysis.
 
 ### How it Works
-1. **Scraping:** I used the `requests` library to fetch the pages and `BeautifulSoup` to parse the HTML. I noticed the site uses specific database IDs in the URL query parameters, so I targeted those directly to get the correct list of data.
-2. **Filtering:** The script looks at the decision status on each card. It keeps only "Anbefalet" (Recommended) or "Delvist anbefalet" (Partially recommended) items, ignoring rejections to keep the dataset focused on positive outcomes.
-3. **Extraction:** I used two different approaches depending on how consistent the data was:
-    * **Hard Data (Dates, ATC Codes):** These follow predictable formats, so regular expressions work well here.
-    * **Adjustable Data (Drug Names):** The "Trade Name" vs. "Generic Name" text in the headers was very inconsistent. Sometimes it uses parentheses, sometimes hyphens, and the order varies.
-   
+1. **Scraping:** `requests` fetches the pages, `BeautifulSoup` parses the HTML. The site uses specific database IDs in the URL query params, so I target those directly to pull the right data.
+2. **Filtering:** Checks the decision status on each card and keeps only `Anbefalet` (Recommended) or `Delvist anbefalet` (Partially recommended) — rejections are dropped to keep the dataset focused.
+3. **Extraction:** Two approaches depending on how consistent the data is:
+    - **Structured fields (dates, ATC codes):** Predictable formats, so regex handles these cleanly.
+    - **Drug names:** Headers are inconsistent — sometimes parentheses, sometimes hyphens, order varies. Handed off to an LLM (see below).
+
 ### Why I Used an LLM
+Used Gemini specifically for splitting trade names from generic names. The headers are too inconsistent to hard-code rules for — the format changes and maintaining that logic gets messy fast. The LLM handles the variation cleanly without brittle regex chains.
 
-I decided to use an LLM (Gemini) specifically for splitting the drug names.
-The text in the headers is inconsistent and the word order changes. Hard-coding rules for every variation is messy and hard to maintain if the website changes. The LLM separates them easily without needing complex logic.
-
-**However, I was careful about API calls:**
-Instead of calling the LLM for every single row, the script chunk headers and sends them in one request. This keeps the pipeline fast, avoids unnecessary API calls, and scales much better overall.
+**To keep it efficient:** instead of calling the API per row, headers are chunked and sent in a single request. Faster, cheaper, and scales better.
 
 ### Data Quality & Edge Cases
-* **Danish Dates:** Month names are in Danish `(like Januar)`, so I added a simple mapping to convert them into standard `YYYY-MM-DD` format.
-* **Missing Data:** If a field cant be extracted (either by the scraper or the LLM), its left blank rather than causing the script to fail.
-* **Rate Limits:** Small (`sleep`) delays are added between requests to avoid stressing the website.
+- **Danish dates:** Month names come in Danish (`Januar`, etc.), so there's a mapping layer to convert them to `YYYY-MM-DD`.
+- **Missing fields:** If something can't be extracted — by the scraper or the LLM — it's left blank instead of crashing the pipeline.
+- **Rate limiting:** Small `sleep` delays between requests to avoid hammering the site.
 
-## How to Run
+### How to Run
 1. Install dependencies:
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
-2. Add your Google API key to config.yaml
-3. Run the script:
-    ```shell
-     python main.py
-    ```
-4. The output will appear default as output.csv
+```
+2. Add your Google API key to `config.yaml`
+3. Run:
+```bash
+   python main.py
+```
+4. Output saved to `output.csv` by default
